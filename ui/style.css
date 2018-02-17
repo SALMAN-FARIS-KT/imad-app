@@ -3,6 +3,10 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
 }
+h1{
+    font-family :verdana;
+
+}
 
 .center {
     text-align: center;
